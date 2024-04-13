@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+I am studying in Code Institute to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dimitris112&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Dimitris112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
