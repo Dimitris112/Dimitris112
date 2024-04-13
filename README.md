@@ -1,5 +1,10 @@
 ### Hi there 👋
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dimitris112&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Dimitris112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Dimitris112/Dimitris112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
