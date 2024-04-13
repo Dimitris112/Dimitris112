@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I am studying in Code Institute to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: At the moment I'm on the Second project out of Five using only Front End for now 
+- :telescope: At the moment I'm on the Second project out of Five using only Front End and soon I'l become familiar to Back End.
 
 - :seedling: This.
 
