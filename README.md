@@ -9,7 +9,6 @@ I am studying in Code Institute to become a Full Stack Developer <img src="https
 
 - :mailbox: How to reach me: dimitristh101@gmail.com - [![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20Me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-thlivitis/)
 
-- 
  ### :hammer_and_wrench: Languages and Tools 
  - #### Now 
   
