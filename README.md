@@ -1,5 +1,7 @@
-### Hi there 👋 
-As of January 2024 I am studying in Code Institute to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Hi there 👋  
+ Graduated from IEK AKmi in Athens,Greece where I studied Software Engineering for 2 years and completed the *Software Engineering Programme* in collaboration from **Pearson**. This was 3.000 years ago.. I was there.
+ 
+ As of January 2024 I am studying in Code Institute to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: At the moment I'm on the Second project out of Five using only Front End and soon I'll become familiar to Back End.
 
