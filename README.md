@@ -39,6 +39,7 @@ I graduated in 2016 from IEK AKmi in Athens,Greece where I studied Software Engi
     </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dimitris112&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dimitris112&theme=gruvbox)](https://github.com/Dimitris112/github-readme-stats)
 
 
 
