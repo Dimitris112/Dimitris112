@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am studying in Code Institute to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+As of January 2024 I am studying in Code Institute to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: At the moment I'm on the Second project out of Five using only Front End and soon I'll become familiar to Back End.
 
