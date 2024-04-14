@@ -1,5 +1,5 @@
 ### Hi there 👋  
- Graduated from IEK AKmi in Athens,Greece where I studied Software Engineering for 2 years and completed the *Software Engineering Programme* in collaboration from **Pearson**. This was 3.000 years ago.. I was there.
+ Graduated in 2016 from IEK AKmi in Athens,Greece where I studied Software Engineering for 2 years and completed the *Software Engineering Programme* in collaboration with **Pearson**. This was 3.000 years ago.. I was there.
  
  As of January 2024 I am studying in Code Institute to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
