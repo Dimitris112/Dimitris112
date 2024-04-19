@@ -5,8 +5,6 @@ I graduated in 2016 from IEK AKmi in Athens,Greece where I studied Software Engi
 
 - :telescope: At the moment I'm on the Second project out of Five using only Front End and soon I'll become familiar to Back End.
 
-- :seedling: This.
-
 - :zap: I just drink a lot of coffee.
 
 - :mailbox: Reach me here: dimitristh101@gmail.com - [![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20Me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-thlivitis/)
