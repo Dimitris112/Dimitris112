@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there! 👋  
 I'm *Dimitris* (pronounced as "D me trees")
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -51,10 +51,18 @@ My third project for the Code Institute Course - Python (terminal)
 </div>
 
 ## 📊 **GitHub Stats**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dimitris112&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dimitris112&theme=dark&mode=weekly" alt="GitHub Streak" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimitris112&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="max-width: 45%;"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitris112&theme=gruvbox" alt="Top Languages" style="max-width: 45%;"/>
+</div>
+
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitris112&theme=gruvbox)](https://github.com/Dimitris112/github-readme-stats)
-<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ## 🔥 **Recent Activity**
 
