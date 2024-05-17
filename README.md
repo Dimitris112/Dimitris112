@@ -9,7 +9,24 @@ As of January 2024, I am studying at **[Code Institute](https://codeinstitute.ne
 
 - :telescope: Currently working on the third project out of five.
 - :zap: I drink a lot of coffee.
-- :mailbox: Reach me here: [dimitristh101@gmail.com](mailto:dimitristh101@gmail.com) - [![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20Me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-thlivitis/)
+
+## Let's Connect 👋
+
+You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/dimitrios-thlivitis/), or message me on Slack at **@Dimitris_5P**!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dimitrios-thlivitis" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dimitristh101@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/96/000000/gmail.png" alt="Gmail" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/000000/slack--v2.png" alt="Slack" width="50" height="50"/>
+</div>
+
+
+
+
 
 ## 👀 **Visitors Count**  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dimitris112.Dimitris112)
