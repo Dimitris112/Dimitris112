@@ -13,6 +13,10 @@ As of January 2024, I am studying at **[Code Institute](https://codeinstitute.ne
 - :zap: I drink a lot of coffee.
 - :mailbox: Reach me here: [dimitristh101@gmail.com](mailto:dimitristh101@gmail.com) - [![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20Me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-thlivitis/)
 
+## 👀 **Visitors Count**  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dimitris112.Dimitris112)
+
+
 ## :rocket: **Projects**
 ### [Travel Agency](https://github.com/Dimitris112/travel-agency-1st-official-project)
 My first project for the Code Institute Course - HTML / CSS
@@ -51,10 +55,5 @@ My third project for the Code Institute Course - Python (terminal)
 
 ## 🔥 **Recent Activity**
 
-[![Dimitris' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dimitris112&theme=react-dark)](https://github.com/Dimitris112)
+[![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Dimitris112&theme=react-dark)](https://github.com/Dimitris112)
 
-
-
-
-## 👀 **Visitors Count**
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dimitris112.Dimitris112)
