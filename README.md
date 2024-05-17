@@ -1,13 +1,11 @@
 ### Hi there! 👋  
 I'm *Dimitris* (pronounced as "D me trees")
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Welcome" style="max-width: 80%; height: auto;">
-</div>
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="800">
 
 I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software Engineering for 2 years. Additionally, I completed the *Software Engineering Programme* in collaboration with **Pearson**. This was 3,000 years ago... I was there.
 
-As of January 2024, I am studying at **[Code Institute](https://codeinstitute.net/global/)** to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+As of January 2024, I am studying at **[Code Institute](https://codeinstitute.net/global/)** to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 - :telescope: Currently working on the third project out of five.
 - :zap: I drink a lot of coffee.
