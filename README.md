@@ -15,6 +15,7 @@ As of January 2024, I am studying at **[Code Institute](https://codeinstitute.ne
 
 ## 👀 **Visitors Count**  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dimitris112.Dimitris112)
+<!-- https://github.com/hehuapei/visitor-badge -->
 
 
 ## :rocket: **Projects**
@@ -51,9 +52,11 @@ My third project for the Code Institute Course - Python (terminal)
 
 ## 📊 **GitHub Stats**
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dimitris112&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitris112&theme=gruvbox)](https://github.com/Dimitris112/github-readme-stats)
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 
 ## 🔥 **Recent Activity**
 
 [![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Dimitris112&theme=react-dark)](https://github.com/Dimitris112)
-
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph?tab=readme-ov-file -->
