@@ -7,6 +7,16 @@ I'm *Dimitris* (pronounced as "D me trees")
 
 <br>
 
+I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software Engineering for 2 years. Additionally, I completed the *Software Engineering Programme* in collaboration with **Pearson**. This was 3,000 years ago... I was there.
+
+As of January 2024, I am studying at **[Code Institute](https://codeinstitute.net/global/)** to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+ :telescope: Currently working on the third project out of five.
+ 
+ :zap: I drink a lot of coffee.
+
+<br>
+
 <details>
   <summary>🌟 Click to view more Personal Details 🌟</summary>
   
@@ -22,17 +32,7 @@ I'm *Dimitris* (pronounced as "D me trees")
 
 <br>
 
-I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software Engineering for 2 years. Additionally, I completed the *Software Engineering Programme* in collaboration with **Pearson**. This was 3,000 years ago... I was there.
-
-As of January 2024, I am studying at **[Code Institute](https://codeinstitute.net/global/)** to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
- :telescope: Currently working on the third project out of five.
- 
- :zap: I drink a lot of coffee.
-
-<br>
-
-## Let's Connect 👋
+## Let's Connect 🤝
 
 You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/dimitrios-thlivitis/), or message me on Slack at **@Dimitris_5P**!
 
