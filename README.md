@@ -1,7 +1,9 @@
 ### Hi there! 👋  
 I'm *Dimitris* (pronounced as "D me trees")
 
+<p align="center">
 <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="800">
+</p>
 
 I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software Engineering for 2 years. Additionally, I completed the *Software Engineering Programme* in collaboration with **Pearson**. This was 3,000 years ago... I was there.
 
@@ -24,7 +26,6 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
   </a>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/slack--v2.png" alt="Slack" width="50" height="50"/>
 </div>
-
 
 
 
