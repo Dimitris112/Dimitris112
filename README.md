@@ -5,6 +5,23 @@ I'm *Dimitris* (pronounced as "D me trees")
 <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="800">
 </p>
 
+<br>
+
+<details>
+  <summary>🌟 Click to view more Personal Details 🌟</summary>
+  
+  <br>
+  
+  <p align="center">
+    <b>Age:</b> 28 years old 🎂 <br>
+    <b>Location:</b> Athens, Greece 🏛️ <br>
+    <b>Languages:</b> Greek (native), English (fluent) 🌐 <br>
+  </p>
+    
+</details>
+
+<br>
+
 I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software Engineering for 2 years. Additionally, I completed the *Software Engineering Programme* in collaboration with **Pearson**. This was 3,000 years ago... I was there.
 
 As of January 2024, I am studying at **[Code Institute](https://codeinstitute.net/global/)** to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
@@ -12,6 +29,8 @@ As of January 2024, I am studying at **[Code Institute](https://codeinstitute.ne
  :telescope: Currently working on the third project out of five.
  
  :zap: I drink a lot of coffee.
+
+<br>
 
 ## Let's Connect 👋
 
@@ -28,12 +47,13 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 </div>
 
 
-
+<br>
 
 ## 👀 **Visitors Count**  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dimitris112.Dimitris112)
 <!-- https://github.com/hehuapei/visitor-badge -->
 
+<br>
 
 ## :rocket: **Projects**
 ### [Travel Agency](https://github.com/Dimitris112/travel-agency-1st-official-project)
@@ -44,6 +64,8 @@ My second project for the Code Institute Course - HTML / CSS / JS
   
 ### [Contact Manager](https://github.com/Dimitris112/Contact-Manager-pp3)
 My third project for the Code Institute Course - Python (terminal)
+
+<br>
 
 ## :hammer_and_wrench: **Languages and Tools**
 ### Now
@@ -66,6 +88,8 @@ My third project for the Code Institute Course - Python (terminal)
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
+
+<br>
 
 ## 📊 **GitHub Stats**
 
