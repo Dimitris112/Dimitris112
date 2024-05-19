@@ -63,6 +63,7 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
     <summary>Oops, sorry I meant here</summary>
     <details>
       <summary>Finally, here are my projects!</summary>
+     <br>
       <ol>
         <li>
           <a href="https://github.com/Dimitris112/travel-agency-1st-official-project" target="_blank"><strong><em>101 Travelling Agency</em></strong></a><br>
