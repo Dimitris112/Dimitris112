@@ -55,15 +55,32 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
-## :rocket: **Projects**
-### [Travel Agency](https://github.com/Dimitris112/travel-agency-1st-official-project)
-My first project for the Code Institute Course - HTML / CSS
-  
-### [Let's Cook](https://github.com/Dimitris112/lets-cook-pp2)
-My second project for the Code Institute Course - HTML / CSS / JS
-  
-### [Contact Manager](https://github.com/Dimitris112/Contact-Manager-pp3)
-My third project for the Code Institute Course - Python (terminal)
+# 🚀 My Projects
+
+<details>
+  <summary>Yeap, click here to view my projects</summary>
+  <details>
+    <summary>Oops, sorry I meant here</summary>
+    <details>
+      <summary>Finally, here are my projects!</summary>
+      <ol>
+        <li>
+          <a href="https://github.com/Dimitris112/travel-agency-1st-official-project" target="_blank">Travel Agency</a><br>
+          My first project for the Code Institute Course - HTML / CSS
+        </li>
+        <li>
+          <a href="https://github.com/Dimitris112/lets-cook-pp2" target="_blank">Let's Cook</a><br>
+          My second project for the Code Institute Course - HTML / CSS / JS
+        </li>
+        <li>
+          <a href="https://github.com/Dimitris112/Contact-Manager-pp3" target="_blank">Contact Manager</a><br>
+          My third project for the Code Institute Course - Python (terminal)
+        </li>
+      </ol>
+    </details>
+  </details>
+</details>
+
 
 <br>
 
