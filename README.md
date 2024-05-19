@@ -57,41 +57,27 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 ## 🚀 My Projects down below
 
-<details>
-  <summary>Yeap, click here to view my projects</summary>
-  <details>
-    <summary>Oops, sorry I meant here</summary>
-    <details>
-      <summary>Finally, here are my projects!</summary>
-     <br>
-      <ol>
-        <li>
-          <a href="https://github.com/Dimitris112/travel-agency-1st-official-project" target="_blank"><strong><em>101 Travelling Agency</em></strong></a><br>
-          My first project for the Code Institute Course - HTML / CSS
-        </li>
-        <li>
-          <a href="https://github.com/Dimitris112/lets-cook-pp2" target="_blank"><strong><em>Let's Cook</em></strong></a><br>
-          My second project for the Code Institute Course - HTML / CSS / JS
-        </li>
-        <li>
-          <a href="https://github.com/Dimitris112/Contact-Manager-pp3" target="_blank"><strong><em>Contact Manager</em></strong></a><br>
-          My third project for the Code Institute Course - Python (terminal)
-        </li>
-        <li>
-          <strong><em>404 Happening soon</em></strong><br>
-          Stay tuned for my upcoming fourth project
-        </li>
-        <li>
-         <strong><em>Coming soon: The Final Project</em></strong><br>
-          Keep an eye out for my fifth and final project: an Advanced Frontend Spectacle!
-        </li>
-      </ol>
-    </details>
-  </details>
-</details>
+*My first project for the Code Institute Course - HTML / CSS*
 
+<a href="https://github.com/Dimitris112/travel-agency-1st-official-project" target="_blank"><strong><em>101 Travelling Agency</em></strong></a><br>
 
+**The purpose of this project is to create a user-friendly and efficient platform that can manage clients, offers, bookings and being able to travel all over the globe.**
 
+<br>
+
+*My second project for the Code Institute Course - HTML / CSS / JS*
+
+<a href="https://github.com/Dimitris112/lets-cook-pp2" target="_blank"><strong><em>Let's Cook</em></strong></a><br>
+
+**The purpose of the project is a website called "Let's Cook" that serves as a recipe finder. The project aims to provide users with a platform to search, browse, and discover recipes based on various criteria such as keywords, categories, and alphabetical order. Additionally, users can save locally their favorite recipes for future reference.**
+
+<br>
+
+*My third project for the Code Institute Course - Python (terminal)*
+
+<a href="https://github.com/Dimitris112/Contact-Manager-pp3" target="_blank"><strong><em>Contact Manager</em></strong></a><br>
+
+**The purpose of the Contact Manager is to allow users to create and manage their contacts in different tabs like Name, Telephone Number, Email, Birthday, Notes and sort them as Personal - Professional - Emergency - Favorites inside a terminal environment.**
 
 <br>
 
