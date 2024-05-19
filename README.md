@@ -55,7 +55,7 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
-# 🚀 My Projects down below
+## 🚀 My Projects down below
 
 <details>
   <summary>Yeap, click here to view my projects</summary>
