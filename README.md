@@ -76,10 +76,19 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
           <a href="https://github.com/Dimitris112/Contact-Manager-pp3" target="_blank"><strong><em>Contact Manager</em></strong></a><br>
           My third project for the Code Institute Course - Python (terminal)
         </li>
+        <li>
+          <strong><em>404 Happening soon</em></strong><br>
+          Stay tuned for my upcoming fourth project
+        </li>
+        <li>
+         <strong><em>Coming soon: The Final Project</em></strong><br>
+          Keep an eye out for my fifth and final project: an Advanced Frontend Spectacle!
+        </li>
       </ol>
     </details>
   </details>
 </details>
+
 
 
 
