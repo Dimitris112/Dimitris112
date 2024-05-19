@@ -130,10 +130,9 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitris112&theme=gruvbox" alt="Top Languages" style="max-width: 45%;"/>
 </div>
 
+[![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Dimitris112&theme=react-dark)](https://github.com/Dimitris112)
+
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-## 🔥 **Recent Activity**
-
-[![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Dimitris112&theme=react-dark)](https://github.com/Dimitris112)
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph?tab=readme-ov-file -->
