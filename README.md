@@ -15,6 +15,10 @@ As of January 2024, I am studying at **[Code Institute](https://codeinstitute.ne
  
  :zap: I drink a lot of coffee.
 
+ :robot: Hackathon enthusiast
+
+ 
+
 <br>
 
 <details>
