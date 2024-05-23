@@ -57,7 +57,8 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 ## 🚀 My Projects down below
 
-*My first project for the Code Institute Course - HTML / CSS*
+*My first project for the Code Institute Course - HTML / CSS* ------ **Merit**
+
 
 <a href="https://github.com/Dimitris112/travel-agency-1st-official-project" target="_blank"><strong><em>101 Travelling Agency</em></strong></a><br>
 
@@ -65,7 +66,7 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
-*My second project for the Code Institute Course - HTML / CSS / JS*
+*My second project for the Code Institute Course - HTML / CSS / JS* ------ **Distinction**
 
 <a href="https://github.com/Dimitris112/lets-cook-pp2" target="_blank"><strong><em>Let's Cook</em></strong></a><br>
 
