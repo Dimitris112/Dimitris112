@@ -17,7 +17,9 @@ As of January 2024, I am studying at **[Code Institute](https://codeinstitute.ne
 
  :robot: Hackathon enthusiast
 
- 
+Recently I participated in [Code Insitute's May 2024 hackathon](https://hackathon.codeinstitute.net/hackathon/47/) `Code Wars: The Hackathon Strikes Back`
+
+ <a href="https://api.eu.badgr.io/public/assertions/SNMdl7PuQaWFGTXDgBEGYA"><img width="180px" height="180px" src="https://api.eu.badgr.io/public/assertions/SNMdl7PuQaWFGTXDgBEGYA/image"></a>
 
 <br>
 
