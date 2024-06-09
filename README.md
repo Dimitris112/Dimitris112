@@ -11,7 +11,7 @@ I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software En
 
 As of January 2024, I am studying at **[Code Institute](https://codeinstitute.net/global/)** to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
- :telescope: Currently working on the third project out of five.
+ :telescope: Currently working on the fourth project out of five.
  
  :zap: I drink a lot of coffee.
 
