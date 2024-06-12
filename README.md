@@ -58,7 +58,7 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
-## 👀 **Visitors Count**  
+## **Visitors Count** 👀
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dimitris112.Dimitris112)
 <!-- https://github.com/hehuapei/visitor-badge -->
 
