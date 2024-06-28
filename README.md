@@ -83,7 +83,7 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
-*My third project for the Code Institute Course - Python (terminal)* ------ **Waiting**
+*My third project for the Code Institute Course - Python (terminal)* ------ **Merit**
 
 <a href="https://github.com/Dimitris112/Contact-Manager-pp3" target="_blank"><strong><em>Contact Manager</em></strong></a><br>
 
