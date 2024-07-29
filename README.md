@@ -43,7 +43,7 @@ Recently I participated in [Code Insitute's May 2024 hackathon](https://hackatho
 
 ## Let's Connect 🤝
 
-You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/dimitrios-thlivitis/), or message me on Slack at **@Dimitris_5P**!
+You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/dimitrios-thlivitis/), or message me on Slack at **@Dimitrios Thlivitis**!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dimitrios-thlivitis" target="_blank">
