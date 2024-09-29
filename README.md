@@ -91,6 +91,14 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
+*My fourth project for the Code Institute Course - Django / PostgreSQL*
+
+<a href="https://github.com/Dimitris112/rum-away-testp4" target="_blank"><strong><en>Rum Away Bar</em></strong></a><br>
+
+**The purpose of the Rum Away Bar is a web-based application that optimizes operations by providing customers with a user-friendly platform to browse events, make reservations, view testimonials and creating their profile while also offering administrator a control panel for managing events and reservations, all underpinned by secure authentication through Django Allauth and supported by API integrations for profile management and media storage via Cloudinary, with PostgreSQL serving as the database.**
+
+<br>
+
 ## :hammer_and_wrench: **Languages and Tools**
 ### Now
 <div>
