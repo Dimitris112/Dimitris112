@@ -91,7 +91,7 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
-*My fourth project for the Code Institute Course - Django / PostgreSQL*
+*My fourth project for the Code Institute Course - Django / PostgreSQL* ------ **Distinction**
 
 <a href="https://github.com/Dimitris112/rum-away-testp4" target="_blank"><strong><en>Rum Away Bar</em></strong></a><br>
 
