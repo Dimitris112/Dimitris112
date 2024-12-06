@@ -64,7 +64,7 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
-## 🚀 My Projects down below
+## 🚀 My Projects down below **(Fail - Pass - Merit - Distinction)**
 
 *My first project for the Code Institute Course - HTML / CSS* ------ **Merit**
 
