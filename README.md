@@ -99,6 +99,15 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 
 <br>
 
+
+*My fifth project for the Code Institute Course - React / Django REST Framework* ------
+
+<a href="https://github.com/Dimitris112/La-Vie-pp5" target="_blank"><strong><em>La Vie</em></strong></a><br>
+
+**The purpose of this project is a web-based social media platform called La Vie, designed to provide users with a safe and engaging space to share content, interact with others, and customize their experience. Built using React and Django REST Framework, the platform uses a modern and dynamic interface alongside a robust backend system.**
+
+
+
 ## :hammer_and_wrench: **Languages and Tools**
 ### Now
 <div>
