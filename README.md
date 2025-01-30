@@ -100,7 +100,7 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
 <br>
 
 
-*My fifth project for the Code Institute Course - React / Django REST Framework* ------
+*My fifth project for the Code Institute Course - React / Django REST Framework* ------ **Pass**
 
 <a href="https://github.com/Dimitris112/La-Vie-pp5" target="_blank"><strong><em>La Vie</em></strong></a><br>
 
