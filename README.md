@@ -1,112 +1,90 @@
-### Hi there! 👋  
-I'm *Dimitris* (pronounced as "D me trees")
-
+<!-- README MAX OVERDRIVE INITIATED -->
 <p align="center">
-<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="800">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&background=000000FF&center=true&vCenter=true&width=1000&lines=Dimitris+Thlivitis+%7C+Full+Stack+Developer;Coffee+%2B+Code+%2B+Community+%3D+Me;I+turn+ideas+into+web+apps+that+work+for+you;In+my+free+time%2C+you%27ll+find+me+learning+or+exploring;Athens+is+home+but+the+world+is+my+playground;Let%27s+make+something+amazing+%F0%9F%8C%9F">
 </p>
 
-<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="1000">
+</p>
 
-I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software Engineering for 2 years. Additionally, I completed the *Software Engineering Programme* in collaboration with **Pearson**. This was 3,000 years ago... I was there.
+---
 
-As of January 2024, I am studying at **[Code Institute](https://codeinstitute.net/global/)** to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+## Hi there! 👋  
+I'm *Dimitris*
 
- :telescope: Currently working on the fourth project out of five.
- 
- :zap: I drink a lot of coffee.
+I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software Engineering for 2 years. Additionally, I completed the *Software Engineering Programme* in collaboration with **Pearson**. As of January 2024, I completed a Full Stack Developer course at **[Code Institute](https://codeinstitute.net/global/)** with merit, studying for a year.
 
- :robot: Hackathon enthusiast
+<a href="https://www.credential.net/38711487-23ee-4b3c-aebf-2f4ae5a7405e#acc.HEMmpKdw">
+  <img width="180px" height="180px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131716975">
+</a>
 
-Recently I participated in [Code Insitute's May 2024 hackathon](https://hackathon.codeinstitute.net/hackathon/47/) `Code Wars: The Hackathon Strikes Back`
+:zap: I drink a lot of coffee.  
+:robot: Recently I participated in [Code Institute's May 2024 hackathon](https://hackathon.codeinstitute.net/hackathon/47/) `Code Wars: The Hackathon Strikes Back`.
 
-**[Check our project](https://github.com/CallumDennisIE/2405-hackathon-team3)**
-
- <a href="https://api.eu.badgr.io/public/assertions/SNMdl7PuQaWFGTXDgBEGYA"><img width="180px" height="180px" src="https://api.eu.badgr.io/public/assertions/SNMdl7PuQaWFGTXDgBEGYA/image"></a>
-<!-- https://github.com/VCGithubCode/VCGithubCode/blob/main/README.md --> 
-
-<br>
+**[Check our project](https://github.com/CallumDennisIE/2405-hackathon-team3)**  
+<a href="https://api.eu.badgr.io/public/assertions/SNMdl7PuQaWFGTXDgBEGYA"><img width="180px" height="180px" src="https://api.eu.badgr.io/public/assertions/SNMdl7PuQaWFGTXDgBEGYA/image"></a>
 
 <details>
   <summary>🌟 Click to view more Personal Details 🌟</summary>
   
-  <br>
-  
   <p align="center">
-    <b>Age:</b> 28 years old 🎂 <br>
+    <b>Age:</b> 29 years old 🎂 <br>
     <b>Location:</b> Athens, Greece 🏛️ <br>
     <b>Languages:</b> Greek (native), English (fluent) 🌐 <br>
   </p>
-    
 </details>
 
 <br>
 
-## Let's Connect 🤝
+## 🚀 My Projects  
+**Grading:** *Fail - Pass - Merit - Distinction*
 
-You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/dimitrios-thlivitis/), or message me on Slack at **@Dimitrios Thlivitis**!
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dimitrios-thlivitis" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dimitristh101@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/96/000000/gmail.png" alt="Gmail" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/000000/slack--v2.png" alt="Slack" width="50" height="50"/>
-</div>
+### 🌍 101 Travelling Agency  
+**Grading: Merit**  
+*Tech: HTML / CSS*  
+🔗 [Check it](https://github.com/Dimitris112/travel-agency-1st-official-project)  
 
+> A user-friendly and efficient platform for managing clients, offers, and bookings for global travel.
 
-<br>
+---
 
-## **Visitors Count** 👀
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dimitris112.Dimitris112)
-<!-- https://github.com/hehuapei/visitor-badge -->
+### 🍳 Let’s Cook  
+**Grading: Distinction**  
+*Tech: HTML / CSS / JavaScript*  
+🔗 [Check it](https://github.com/Dimitris112/lets-cook-pp2)  
 
-<br>
+> "Let's Cook" is a recipe finder website that allows users to search and browse recipes by keywords, category, and alphabetical order. Users can also save their favorite recipes locally for future reference.
 
-## 🚀 My Projects down below **(Fail - Pass - Merit - Distinction)**
+---
 
-*My first project for the Code Institute Course - HTML / CSS* ------ **Merit**
+### 📇 Contact Manager  
+**Grading: Merit**  
+*Tech: Python (Terminal-based)*  
+🔗 [Check it](https://github.com/Dimitris112/Contact-Manager-pp3)  
 
+> A terminal-based application to manage contacts by storing names, phone numbers, emails, birthdays, and notes. Contacts can be categorized as Personal, Professional, Emergency, or Favorites.
 
-<a href="https://github.com/Dimitris112/travel-agency-1st-official-project" target="_blank"><strong><em>101 Travelling Agency</em></strong></a><br>
+---
 
-**The purpose of this project is to create a user-friendly and efficient platform that can manage clients, offers, bookings and being able to travel all over the globe.**
+### 🍹 Rum Away Bar  
+**Grading: Distinction**  
+*Tech: Django / PostgreSQL*  
+🔗 [Check it](https://github.com/Dimitris112/rum-away-testp4)  
 
-<br>
+> A full-stack web app that enables users to browse events, make reservations, read testimonials, and create profiles. Admins can manage events and reservations through a control panel. Features secure authentication (Django Allauth), Cloudinary for media storage, and PostgreSQL as the database.
 
-*My second project for the Code Institute Course - HTML / CSS / JS* ------ **Distinction**
+---
 
-<a href="https://github.com/Dimitris112/lets-cook-pp2" target="_blank"><strong><em>Let's Cook</em></strong></a><br>
+### 📸 La Vie  
+**Grading: Pass**  
+*Tech: React / Django REST Framework*  
+🔗 [Check it](https://github.com/Dimitris112/La-Vie-pp5)  
 
-**The purpose of the project is a website called "Let's Cook" that serves as a recipe finder. The project aims to provide users with a platform to search, browse, and discover recipes based on various criteria such as keywords, categories, and alphabetical order. Additionally, users can save locally their favorite recipes for future reference.**
+> La Vie is a modern social media platform where users can share content, interact with others, and personalize their experience. Built with a dynamic React frontend and robust Django REST Framework backend.
 
-<br>
-
-*My third project for the Code Institute Course - Python (terminal)* ------ **Merit**
-
-<a href="https://github.com/Dimitris112/Contact-Manager-pp3" target="_blank"><strong><em>Contact Manager</em></strong></a><br>
-
-**The purpose of the Contact Manager is to allow users to create and manage their contacts in different tabs like Name, Telephone Number, Email, Birthday, Notes and sort them as Personal - Professional - Emergency - Favorites inside a terminal environment.**
-
-<br>
-
-*My fourth project for the Code Institute Course - Django / PostgreSQL* ------ **Distinction**
-
-<a href="https://github.com/Dimitris112/rum-away-testp4" target="_blank"><strong><en>Rum Away Bar</em></strong></a><br>
-
-**The purpose of the Rum Away Bar is a web-based application that optimizes operations by providing customers with a user-friendly platform to browse events, make reservations, view testimonials and creating their profile while also offering administrator a control panel for managing events and reservations, all underpinned by secure authentication through Django Allauth and supported by API integrations for profile management and media storage via Cloudinary, with PostgreSQL serving as the database.**
-
-<br>
-
-
-*My fifth project for the Code Institute Course - React / Django REST Framework* ------ **Pass**
-
-<a href="https://github.com/Dimitris112/La-Vie-pp5" target="_blank"><strong><em>La Vie</em></strong></a><br>
-
-**The purpose of this project is a web-based social media platform called La Vie, designed to provide users with a safe and engaging space to share content, interact with others, and customize their experience. Built using React and Django REST Framework, the platform uses a modern and dynamic interface alongside a robust backend system.**
-
-
+---
 
 ## :hammer_and_wrench: **Languages and Tools**
 ### Now
@@ -129,8 +107,6 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/shopify.svg" title="Shopify" alt="Shopify" width="40" height="40"/>&nbsp;
 </div>
 
-
-   
 ### Soon
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -151,9 +127,18 @@ You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitris112&theme=gruvbox" alt="Top Languages" style="max-width: 45%;"/>
 </div>
 
-<!--(https://github-readme-activity-graph.vercel.app/graph?username=Dimitris112&theme=react-dark)](https://github.com/Dimitris112)-->
+## Let's Connect 🤝
+You can reach me via email at [dimitristh101@gmail.com](mailto:dimitristh101@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/dimitrios-thlivitis/), or message me on Slack at **@Dimitrios Thlivitis**!
 
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/dimitrios-thlivitis" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dimitristh101@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/96/000000/gmail.png" alt="Gmail" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/000000/slack--v2.png" alt="Slack" width="50" height="50"/>
+</div>
 
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph?tab=readme-ov-file -->
+## **Visitors Count** 👀
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dimitris112.Dimitris112)
