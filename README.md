@@ -128,7 +128,7 @@ I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software En
 </div>
 
 ## Let's Connect 🤝
-You can reach me via email at [dimitristh101@gmail.com](mailto:dimitris,thlivitis@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/dimitris-thlivitis/), or message me on Slack at **@Dimitrios Thlivitis**!
+You can reach me via email at [dimitris.thlivitis@gmail.com](mailto:dimitris,thlivitis@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/dimitris-thlivitis/), or message me on Slack at **@Dimitrios Thlivitis**!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dimitris-thlivitis" target="_blank">
