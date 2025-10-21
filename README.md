@@ -104,7 +104,7 @@ I graduated in 2016 from IEK AKmi in Athens, Greece, where I studied Software En
    <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/shopify.svg" title="Shopify" alt="Shopify" width="40" height="40"/>&nbsp;
+   <!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/shopify.svg" title="Shopify" alt="Shopify" width="40" height="40"/>&nbsp; -->
 </div>
 
 ### Soon
