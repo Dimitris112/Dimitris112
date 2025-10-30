@@ -39,11 +39,15 @@
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> |
 
+| Framer Motion | GSAP | Tailwind CSS |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Regex-Dark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> | 
+
 ### Soon
 
-| NodeJS | AWS | TypeScript |
-|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/> |
+| NodeJS | AWS | TypeScript | Three js |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="40" height="40"/> |
 
 <hr>
 
