@@ -27,27 +27,23 @@
 
 ### Now
 
-| CSS3 | PostgreSQL | HTML5 | JavaScript | Git |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/> |
+| PostgreSQL | Git | Python | Bootstrap | jQuery | Jest |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40"/> |
 
-| Python | Bootstrap | jQuery | Jest | Flask |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/> |
+| Flask | Django | React | Vite | PHP | MySQL | Prisma |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40"/> |
 
-| Django | React | Vite | PHP | MySQL |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> |
-
-| Framer Motion | GSAP | Tailwind CSS |
-|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Regex-Dark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> | 
+| Framer Motion | GSAP | Tailwind CSS | TypeScript | Next.js | Supabase |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Regex-Dark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40"/> |
 
 ### Soon
 
-| NodeJS | AWS | TypeScript | Three js |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="40" height="40"/> |
+| AWS | Three.js |
+|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="40" height="40"/> |
 
 <hr>
 
