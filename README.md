@@ -67,9 +67,9 @@
 
 ## 🤝 Let's Connect
 
-| [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dimitris-thlivitis) | [![Gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:dimitris.thlivitis@gmail.com) | [![Slack](https://img.icons8.com/color/48/000000/slack--v2.png)](https://slack.com/) | [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/) |
-|:--:|:--:|:--:|:--:|
-| **Dimitris Thlivitis** | **dimitris.thlivitis@gmail.com** | **Dimitrios Thlivitis** | **dimitris_ultrared** |
+| [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dimitris-thlivitis) | [![Gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:dimitris.thlivitis@gmail.com) | [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/) |
+|:--:|:--:|:--:|
+| **Dimitris Thlivitis** | **dimitris.thlivitis@gmail.com** | **dimitris_ultrared** |
 
 
 <!-- ## **Visitors Count** 👀 -->
